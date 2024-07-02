@@ -27,6 +27,6 @@ elif choice == 2:
     elif computer_choice == 1:
         print("Human won!")
     else:
-        pritn("Draw!")
+        print("Draw!")
 else:
     print("enter a valid choice!")

@@ -63,7 +63,6 @@ words = ["zest", "albatross", "lettuce", "jaguar", "breadfruit", "penguin", "rad
 "breadfruit", "zebra", "krypton", "quince", "zest", "okra", "moonstone", "dolphin", "udon", "hazel"]
 
 word = words[random.randint(0, len(words)- 1 )].lower()
-print(word)
 
 # Let user have a guess
 wrong_guesses = 0

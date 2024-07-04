@@ -1,5 +1,6 @@
 print("Welcome to the secret auction! ")
 
+#! We can include a feature in future which clears out the terminal each time a new user wants to place a bid
 bids = {}
 
 def auction(name, bid):
